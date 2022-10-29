@@ -2,7 +2,7 @@
 Smart Waste Management System For Metropolitan Cities
 
 Team members:
-Naveenkumar S
-Jagan S
-Thiravidaselvi M
-Narumbunathan M
+Team Lead Naveenkumar S
+Team M1 Thiravidaselvi M
+Team M2 Narumbunathan M
+Team M3 Jagan S
